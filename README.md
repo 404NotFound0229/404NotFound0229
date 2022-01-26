@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=404NotFound0229&show_icons=true&theme=synthwave)
 
 <!---
 404NotFound0229/404NotFound0229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
